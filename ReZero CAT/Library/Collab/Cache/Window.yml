@@ -13,9 +13,77 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
-  RevisionSummary: 
+    m_Keys:
+    - Assets/Scenes/End.unity
+    - Assets/Scenes/End.unity.meta
+    - Assets/Scenes/GamePlay.unity
+    - Assets/Scenes/GamePlay.unity.meta
+    - Assets/Scenes/StartScene.unity
+    - Assets/Scenes/StartScene.unity.meta
+    - Assets/Scenes/Story.unity
+    - Assets/Scenes/Story.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/Player.cs
+    - Assets/Scripts/Player.cs.meta
+    - Assets/Scripts/characterController.cs
+    - Assets/Scripts/characterController.cs.meta
+    - Assets/Scripts/movement.cs
+    - Assets/Scripts/movement.cs.meta
+    - Assets/Scripts/nextScene.cs
+    - Assets/Scripts/nextScene.cs.meta
+    - Assets/Tile.meta
+    - Assets/Tile/1.png
+    - Assets/Tile/1.png.meta
+    - Assets/Tile/10.png
+    - Assets/Tile/10.png.meta
+    - Assets/Tile/11.png
+    - Assets/Tile/11.png.meta
+    - Assets/Tile/12.png
+    - Assets/Tile/12.png.meta
+    - Assets/Tile/13.png
+    - Assets/Tile/13.png.meta
+    - Assets/Tile/14.asset
+    - Assets/Tile/14.asset.meta
+    - Assets/Tile/14.png
+    - Assets/Tile/14.png.meta
+    - Assets/Tile/15.asset
+    - Assets/Tile/15.asset.meta
+    - Assets/Tile/15.png
+    - Assets/Tile/15.png.meta
+    - Assets/Tile/16.asset
+    - Assets/Tile/16.asset.meta
+    - Assets/Tile/16.png
+    - Assets/Tile/16.png.meta
+    - Assets/Tile/17.asset
+    - Assets/Tile/17.asset.meta
+    - Assets/Tile/17.png
+    - Assets/Tile/17.png.meta
+    - Assets/Tile/18.png
+    - Assets/Tile/18.png.meta
+    - Assets/Tile/2.png
+    - Assets/Tile/2.png.meta
+    - Assets/Tile/3.png
+    - Assets/Tile/3.png.meta
+    - Assets/Tile/4.png
+    - Assets/Tile/4.png.meta
+    - Assets/Tile/5.asset
+    - Assets/Tile/5.asset.meta
+    - Assets/Tile/5.png
+    - Assets/Tile/5.png.meta
+    - Assets/Tile/6.png
+    - Assets/Tile/6.png.meta
+    - Assets/Tile/7.png
+    - Assets/Tile/7.png.meta
+    - Assets/Tile/8.png
+    - Assets/Tile/8.png.meta
+    - Assets/Tile/9.png
+    - Assets/Tile/9.png.meta
+    - Assets/Tile/New Palette.prefab
+    - Assets/Tile/New Palette.prefab.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - 
+    m_Values: 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 2D Start
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
