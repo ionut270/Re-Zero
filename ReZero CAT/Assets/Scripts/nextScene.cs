@@ -8,4 +8,8 @@ public class nextScene : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+    public void doExitGame()
+    {
+        Application.Quit();
+    }
 }
