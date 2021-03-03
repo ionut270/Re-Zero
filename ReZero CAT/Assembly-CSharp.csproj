@@ -53,6 +53,9 @@
     <UnityVersion>2020.2.6f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CameraControl.cs" />
+    <Compile Include="Assets\Scripts\CameraShake.cs" />
+    <Compile Include="Assets\Scripts\BgScroll.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\movement.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
@@ -62,6 +65,7 @@
     <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\Scripts\characterController.cs" />
     <Compile Include="Assets\Story.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -633,6 +637,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Unity.2D.Tilemap.Extras.csproj">
+      <Project>{85B429A8-C345-BE83-7524-1BAFDD000414}</Project>
+      <Name>Unity.2D.Tilemap.Extras</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Editor.csproj">
       <Project>{07A5D493-168E-353D-4BC6-6057D303581A}</Project>
       <Name>Unity.2D.Animation.Editor</Name>
@@ -704,6 +712,10 @@
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{82E65672-50B2-EBA5-9984-D12102FC83AA}</Project>
       <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Tilemap.Extras.Editor.csproj">
+      <Project>{87BA4A86-80F3-F9DA-3BE5-16BC48F8C2D8}</Project>
+      <Name>Unity.2D.Tilemap.Extras.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
       <Project>{A8335887-5D6F-6545-C8CF-6533D3BB66DB}</Project>

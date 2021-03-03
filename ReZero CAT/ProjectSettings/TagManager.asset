@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Bg
+    uniqueID: 628007529
+    locked: 0
+  - name: Mid
+    uniqueID: 526104043
+    locked: 0
+  - name: Player
+    uniqueID: 1131773385
+    locked: 0
+  - name: Play
+    uniqueID: 403080351
+    locked: 0
+  - name: Flora
+    uniqueID: 2637395019
+    locked: 0
