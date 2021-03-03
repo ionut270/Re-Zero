@@ -14,33 +14,72 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/GameManager.cs
+    - .collabignore
     - Assets/GameManager.cs.meta
-    - Assets/LastScene.cs
     - Assets/LastScene.cs.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/End.unity
+    - Assets/Scenes/End.unity.meta
     - Assets/Scenes/GamePlay.unity
+    - Assets/Scenes/GamePlay.unity.meta
     - Assets/Scenes/Replay.unity
     - Assets/Scenes/Replay.unity.meta
     - Assets/Scenes/StartScene.unity
     - Assets/Scenes/Story.unity
-    - Assets/Scripts/HealthBar.cs
+    - Assets/Scenes/Story.unity.meta
+    - Assets/Scripts.meta
     - Assets/Scripts/HealthBar.cs.meta
-    - Assets/Scripts/Player.cs
-    - Assets/Scripts/Replay.cs
+    - Assets/Scripts/Player.cs.meta
     - Assets/Scripts/Replay.cs.meta
-    - Assets/Scripts/nextScene.cs
-    - Assets/Story.cs
+    - Assets/Scripts/characterController.cs.meta
+    - Assets/Scripts/movement.cs.meta
+    - Assets/Scripts/nextScene.cs.meta
     - Assets/Story.cs.meta
-    - Assets/Tile/Bar.png
+    - Assets/Tile.meta
+    - Assets/Tile/1.png.meta
+    - Assets/Tile/10.png.meta
+    - Assets/Tile/11.png.meta
+    - Assets/Tile/12.png.meta
+    - Assets/Tile/13.png.meta
+    - Assets/Tile/14.asset
+    - Assets/Tile/14.asset.meta
+    - Assets/Tile/14.png.meta
+    - Assets/Tile/15.asset
+    - Assets/Tile/15.asset.meta
+    - Assets/Tile/15.png.meta
+    - Assets/Tile/16.asset
+    - Assets/Tile/16.asset.meta
+    - Assets/Tile/16.png.meta
+    - Assets/Tile/17.asset
+    - Assets/Tile/17.asset.meta
+    - Assets/Tile/17.png.meta
+    - Assets/Tile/18.png.meta
+    - Assets/Tile/2.png.meta
+    - Assets/Tile/3.png.meta
+    - Assets/Tile/4.png.meta
+    - Assets/Tile/5.asset
+    - Assets/Tile/5.asset.meta
+    - Assets/Tile/5.png.meta
+    - Assets/Tile/6.png.meta
+    - Assets/Tile/7.png.meta
+    - Assets/Tile/8.png.meta
+    - Assets/Tile/9.png.meta
     - Assets/Tile/Bar.png.meta
+    - Assets/Tile/New Palette.prefab
+    - Assets/Tile/New Palette.prefab.meta
     - Assets/story.meta
-    - Assets/story/YIKEFILMSFRIDAY _ intro 2d.mp4
     - Assets/story/YIKEFILMSFRIDAY _ intro 2d.mp4.meta
     - Assets/story/videoPlayer.asset
     - Assets/story/videoPlayer.asset.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
     - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VersionControlSettings.asset
     - 
-    m_Values: 0101010101010101010101010101010101010101010101010101
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
