@@ -5,15 +5,15 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637504113683913873
-    m_Hash: 2677021523
+      ticks: 637504120415822424
+    m_Hash: 2838798205
   m_LockFileStatus:
     m_FilePath: C:/Users/mariu/OneDrive/Desktop/PJ/Re-Zero/ReZero CAT/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637504114358098913
+      ticks: 637504120583527748
     m_Hash: 1281149557
 m_EmbeddedPackageManifests:
   m_ManifestsStatus:
@@ -23,8 +23,8 @@ m_EmbeddedPackageManifests:
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 637504113683903901
-      m_Hash: 1054714004
+        ticks: 637504120415999094
+      m_Hash: 707992006
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
@@ -711,6 +711,7 @@ m_PackageAssets:
         - 3.0.2
         - 3.0.3
         - 3.0.4
+        - 3.0.5
         compatible:
         - 1.0.2
         - 1.0.6
@@ -734,6 +735,7 @@ m_PackageAssets:
         - 3.0.2
         - 3.0.3
         - 3.0.4
+        - 3.0.5
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework

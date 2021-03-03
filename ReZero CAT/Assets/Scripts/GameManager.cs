@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
         if (gameHasEnded ==false)
         {
             gameHasEnded = true;
-            Debug.Log("GameOver"); 
+            Debug.Log("GameOver");
             Debug.Log(SceneManager.GetActiveScene().buildIndex);
             replay.SetLastScene(SceneManager.GetActiveScene().buildIndex);
             replay.EndGameScene();
