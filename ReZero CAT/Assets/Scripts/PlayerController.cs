@@ -6,9 +6,11 @@ public class PlayerController : MonoBehaviour
 {
     private enum States { idle, run, fast_run, jump, fall, hurt, climb, crouch };
     //                      0    1       2       3     4     5     6      7
+    public HealthBar healthBar;
+    public GameManager gameManager;
 
     private bool face_right = true;
-    private int health = 10;
+    private int health = 100;
     private float move_speed = 0;
     private bool grounded = false;
     private States state = States.idle;
@@ -46,9 +48,9 @@ public class PlayerController : MonoBehaviour
 
         //default player proprieties
         this.move_speed = p_move_speed;
-        this.health = 10;
+        this.health = 100;
         this.jump_velocity = 20;
-
+        healthBar.setMaxHealth(this.health);
         //spawn the player
         rb.position = new Vector2(0, 5);
     }
@@ -195,10 +197,17 @@ public class PlayerController : MonoBehaviour
         
 
     }
-
+    public int GetHealth() {
+        return this.health;
+    }
+    public void TakeDmg() {
+        this.health -= 10;
+        healthBar.setHealth(this.health);
+    }
     private void Die (){
         if(this.health == 0){
-            Start();
+            //Start();
+            gameManager.EndGame();
         }
     }
 
@@ -210,10 +219,14 @@ public class PlayerController : MonoBehaviour
         impactEffect.Stop();
         impactEffect.transform.position = footsteps.transform.position;
         impactEffect.Play();
-
+        
         if (this.pressed.Contains("Crouch")) {
             camShake.StartShake(.5f, .1f);
             shock.Play();
+
+            //damage 10 hp
+            this.health -= 10;
+            healthBar.setHealth(this.health);
         }
 
         this.state = States.idle;
