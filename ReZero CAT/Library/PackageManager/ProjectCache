@@ -5,7 +5,11 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637504120415822424
+=======
+      ticks: 637504011347052040
+>>>>>>> Stashed changes
     m_Hash: 2838798205
   m_LockFileStatus:
     m_FilePath: C:/Users/mariu/OneDrive/Desktop/PJ/Re-Zero/ReZero CAT/Packages/packages-lock.json
@@ -13,7 +17,11 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637504120583527748
+=======
+      ticks: 637504011706104582
+>>>>>>> Stashed changes
     m_Hash: 1281149557
 m_EmbeddedPackageManifests:
   m_ManifestsStatus:
@@ -23,7 +31,11 @@ m_EmbeddedPackageManifests:
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
+<<<<<<< Updated upstream
         ticks: 637504120415999094
+=======
+        ticks: 637504011346643090
+>>>>>>> Stashed changes
       m_Hash: 707992006
 m_PackageAssets:
   m_Packages:
