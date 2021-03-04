@@ -14,19 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-<<<<<<< Updated upstream
-    - Assets/Scripts/GameManager.cs
-    - 
-    m_Values: 0000
-  RevisionSummary: 
-=======
     - 
     m_Values: 01
-  RevisionSummary: 'Enemy class(jump,dmg)
-
-    add level1 to scenes'
->>>>>>> Stashed changes
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
-  TabIndex: 1
+  TabIndex: 0
