@@ -14,7 +14,7 @@ The current game greets you with a fx character, that can jump, run, move, dash 
 The camera shakes on impact & the player jump is influenced by the ammount of time the player keeps the spacebar pressed, by the previous state of the player (for example if the player is crouching, before jumping, it will jump higher )
 
 
-## Week1
+## Week 1
 ### Dinu Marius Ciprian
 
 |      ToDo          |Description                         |Progress                          |
