@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
 public class GameManager : MonoBehaviour
-{
-    Replay replay=new Replay();
+{ 
+    
+    public Replay replay;
     bool gameHasEnded = false;
     public void EndGame() {
         if (gameHasEnded ==false)
