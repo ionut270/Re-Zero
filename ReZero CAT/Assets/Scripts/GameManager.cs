@@ -17,8 +17,6 @@ public class GameManager : MonoBehaviour
             Debug.Log(SceneManager.GetActiveScene().buildIndex);
             replay.SetLastScene(SceneManager.GetActiveScene().buildIndex);
             replay.EndGameScene();
-
-
         }
     }
 
