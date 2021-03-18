@@ -1,3 +1,4 @@
+
 Project by Oancea Ionut Eugen & Dinu Marius [3A5]
 
 # Weekly summary
@@ -29,7 +30,12 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 ## Week 2
 ### Oancea Ionut Eugen
 
-
+| ToDo | Description | Progress |
+|--|--|--|
+| Debugging over characters | The frog would not jump |	100% |
+| Debugging over characters | Oposum would not die | 100% |
+| Debugging over characters | Animation for oposum | 100%	 |
+| Debugging over characters | Defining hitboxes | 100%	 |
 
 
 ## Week 2
@@ -46,7 +52,12 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 ## Week 3
 ### Oancea Ionut Eugen
 
-
+| ToDo | Description | Progress |
+|--|--|--|
+| Map design | Designed a simple map, for teasting and presenting the world to the player |	100% |
+| Fix tiles | Tiles would sometimes glitch, i added a padding to them |	100%% |
+| Instantiated prefabs on the map | Chosen a position for each prefab on the map | 100% |
+| Simplified the spawning script | The enemy spawning script now uses a public vector 3 array when chosing the position of each enemy| 100%|
 
 
 ## Week 3
