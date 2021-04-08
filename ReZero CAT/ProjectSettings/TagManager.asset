@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - map
+  - enemy
+  - Oposum
+  - weapon
+  - Skin
   layers:
   - Default
   - TransparentFX
@@ -47,6 +52,9 @@ TagManager:
   - name: Mid
     uniqueID: 526104043
     locked: 0
+  - name: Mid2
+    uniqueID: 947837131
+    locked: 0
   - name: Player
     uniqueID: 1131773385
     locked: 0
@@ -55,4 +63,7 @@ TagManager:
     locked: 0
   - name: Flora
     uniqueID: 2637395019
+    locked: 0
+  - name: Dark
+    uniqueID: 380496685
     locked: 0

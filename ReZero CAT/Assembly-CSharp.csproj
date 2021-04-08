@@ -47,19 +47,29 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CameraControl.cs" />
-     <Compile Include="Assets\Scripts\CameraShake.cs" />
-     <Compile Include="Assets\Scripts\BgScroll.cs" />
-     <Compile Include="Assets\Scripts\Player.cs" />
-     <Compile Include="Assets\Scripts\HealthBar.cs" />
-     <Compile Include="Assets\Scripts\nextScene.cs" />
-     <Compile Include="Assets\Scripts\LastScene.cs" />
-     <Compile Include="Assets\Scripts\Replay.cs" />
-     <Compile Include="Assets\Scripts\GameManager.cs" />
-     <Compile Include="Assets\Scripts\EnemyController.cs" />
-     <Compile Include="Assets\Scripts\Story.cs" />
-     <Compile Include="Assets\Scripts\sum.cs" />
-     <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Env stuff\CameraControl.cs" />
+     <Compile Include="Assets\Scripts\Env stuff\DarkManager.cs" />
+     <Compile Include="Assets\Scripts\Enemy Stuff\EnemyHandler.cs" />
+     <Compile Include="Assets\Scripts\Data Stuff\SimpleJSON.cs" />
+     <Compile Include="Assets\Scripts\Env stuff\CameraShake.cs" />
+     <Compile Include="Assets\Scripts\Enemy Stuff\OposumHandler.cs" />
+     <Compile Include="Assets\Scripts\Env stuff\BgScroll.cs" />
+     <Compile Include="Assets\Scripts\Env stuff\mask.cs" />
+     <Compile Include="Assets\Scripts\Env stuff\Populate.cs" />
+     <Compile Include="Assets\Scripts\Env stuff\HealthBar.cs" />
+     <Compile Include="Assets\Scripts\Scene Stuff\nextScene.cs" />
+     <Compile Include="Assets\Scripts\Scene Stuff\LastScene.cs" />
+     <Compile Include="Assets\Scripts\Enemy Stuff\oposumHead.cs" />
+     <Compile Include="Assets\Scripts\Scene Stuff\Replay.cs" />
+     <Compile Include="Assets\Scripts\Scene Stuff\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Enemy Stuff\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\Player Stuff\Heal.cs" />
+     <Compile Include="Assets\Scripts\Scene Stuff\Story.cs" />
+     <Compile Include="Assets\Scripts\Env stuff\CheckPoint.cs" />
+     <Compile Include="Assets\Scripts\Player Stuff\PlayerController.cs" />
+     <Compile Include="Assets\SkinSelection.cs" />
+     <Compile Include="Assets\Scripts\Data Stuff\Data.cs" />
+     <Compile Include="Assets\Scripts\Env stuff\miniCheck.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

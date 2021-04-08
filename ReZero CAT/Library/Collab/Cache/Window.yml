@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scripts/GameManager.cs
-    - Assets/Scripts/Player.cs
-    - Assets/Scripts/Player.cs.meta
+    - Assets/Tiles/Game Pallete.prefab
+    - Assets/Tiles/Game Pallete.prefab.meta
+    - Assets/Tiles/Game pallete.prefab
     - 
-    m_Values: 01010101
-  RevisionSummary: 
+    m_Values: 00000000
+  RevisionSummary: ' Skins and Menu'
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
