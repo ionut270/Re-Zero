@@ -69,3 +69,23 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 |Checkpoint        |I implemented a checkpoint that in collision with the player will send the game to the last scene, the end scene.            |100%            |
 |Tilemap(instantiate enemys)          |I reimplemented the instantiation script using Prefab objects. |50%|
 |Damage| I refactorized the methods for damage (player to enemy 30 dmg, enemy to player 10 dmg).| 100%|
+
+## Week 5
+### Dinu Marius
+
+|      ToDo          |Description                         |Progress                          |
+|----------------|-------------------------------|-----------------------------|
+|New Level |New Level (but without scene transition)            |80%           |
+|Oposum Spawn        | Rework           |80%            |
+|AutoMap       | Fail |30%|
+|| | 100%|
+
+## Week 6
+### Dinu Marius
+
+|      ToDo          |Description                         |Progress                          |
+|----------------|-------------------------------|-----------------------------|
+|Save the game in json | All data related to spawn positions and checkpoint positions are saved in a json using SimpleJSON            |100%           |
+|New Instatiate Prefabs        |I implemented a checkpoint that in collision with the player will send the game to the last scene, the end scene.            |100%            |
+|DarkMode          |I tried to make a shadow mode but the color is too dark. |80%|
+|miniCheckpoint| I implemented the miniCheckpoints that spawn you to that position after you die.| 100%|
