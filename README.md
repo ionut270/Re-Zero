@@ -89,3 +89,13 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 |Prefabs        |CheckPoint,miniCheckPoint           |100%            |
 |DarkMode          |I tried to make a shadow mode but the color is too dark. |80%|
 |miniCheckpoint| I implemented the miniCheckpoints that spawn you to that position after you die.| 100%|
+
+## Week 7
+### Dinu Marius
+
+|      ToDo          |Description                         |Progress                          |
+|----------------|-------------------------------|-----------------------------|
+|Start Menu | I made the basis of the menu and we will both do the design. We have implemented a script for choosing skins and displaying each menu option. |100%           |
+|Prefabs        |Skins for player  |100%            |
+|Shop   |Soon |80%|
+|FinalMenu|Soon| 100%|
