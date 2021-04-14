@@ -1,0 +1,152 @@
+{
+  "Level1": 
+    {
+      "Oposum": [
+        {
+          "posX": "49",
+          "posY": "2"
+        },
+        {
+          "posX": "409",
+          "posY": "-8"
+        },
+        {
+          "posX": "14,5",
+          "posY": "2,8"
+        }
+      ],
+      "Frog": [
+        {
+          "posX": "141",
+          "posY": "2"
+        },
+        {
+          "posX": "216",
+          "posY": "2"
+        }
+      ],
+      "Heal": [
+        {
+          "posX": "181",
+          "posY": "9"
+        },
+        {
+          "posX": "276",
+          "posY": "25"
+        }
+      ],
+      "Checkpoints": [
+        {
+          "posX": "465",
+          "posY": "-8"
+        }
+      ],
+      "miniCheckpoints": [
+        {
+          "posX": "300",
+          "posY": "25"
+        }
+      ],
+      "PlayerCheck": [
+        {
+          "posX": "14,03923",
+          "posY": "6,509415"
+        }
+      ],
+      "PlayerStart": [
+        {
+          "posX": "-12",
+          "posY": "4"
+        }
+      ],
+      "PlayerStage": [
+        {
+          "stage": "0"
+        }
+      ]
+    }
+  ,
+  "Level2": 
+    {
+      "Oposum": [
+        {
+          "posX": "31",
+          "posY": "3"
+        },
+        {
+          "posX": "87",
+          "posY": "8"
+        },
+        {
+          "posX": "176",
+          "posY": "22"
+        },
+        {
+          "posX": "177",
+          "posY": "14"
+        },
+        {
+          "posX": "765",
+          "posY": "40"
+        }
+      ],
+      "Frog": [
+        {
+          "posX": "76",
+          "posY": "6"
+        },
+        {
+          "posX": "228",
+          "posY": "2"
+        },
+        {
+          "posX": "706",
+          "posY": "17"
+        }
+      ],
+      "Heal": [
+        {
+          "posX": "368",
+          "posY": "10"
+        },
+        {
+          "posX": "650",
+          "posY": "42"
+        }
+      ],
+      "Checkpoints": [
+        {
+          "posX": "866",
+          "posY": "48"
+        }
+      ],
+      "miniCheckpoints": [
+        {
+          "posX": "451",
+          "posY": "32"
+        },
+        {
+          "posX": "696",
+          "posY": "44"
+        }
+      ],
+      "PlayerCheck": [
+        {
+          "posX": "14,03923",
+          "posY": "6,509415"
+        }
+      ],
+      "PlayerStart": [
+        {
+          "posX": "-12",
+          "posY": "4"
+        }
+      ],
+      "PlayerStage": [
+        {
+          "stage": "0"
+        }
+      ]
+    }
+  
+}
