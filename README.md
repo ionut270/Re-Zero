@@ -1,4 +1,5 @@
 
+
 Project by Oancea Ionut Eugen & Dinu Marius [3A5]
 
 # Weekly summary
@@ -61,6 +62,7 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 
 
 ## Week 3
+
 ### Dinu Marius
 
 |      ToDo          |Description                         |Progress                          |
@@ -70,7 +72,23 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 |Tilemap(instantiate enemys)          |I reimplemented the instantiation script using Prefab objects. |50%|
 |Damage| I refactorized the methods for damage (player to enemy 30 dmg, enemy to player 10 dmg).| 100%|
 
+## Week 4
+### Oancea Ionut Eugen
+
+| ToDo | Description | Progress |
+|--|--|--|
+| Level adjustments | Redefined assets & tested map |	100% |
+| Ui tiles | Created and added ui tiles for menu |	100% |
+
 ## Week 5
+### Oancea Ionut Eugen
+
+| ToDo | Description | Progress |
+|--|--|--|
+| Level adjustments | Redefined assets & tested map |	100% |
+| Debug on enemies | Debug on the frog, & on the oposum enemies |	100%% |
+| Debug for map generating script | Debug the script that updates the surrounding tiles around a certain tile | 100% |
+
 ### Dinu Marius
 
 |      ToDo          |Description                         |Progress                          |
@@ -81,6 +99,14 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 |Save the game in json | All data related to spawn positions and checkpoint positions are saved in a json using SimpleJSON | 100%|
 
 ## Week 6
+### Oancea Ionut Eugen
+
+| ToDo | Description | Progress |
+|--|--|--|
+| Level adjustments | Redefined assets & tested map |	100% |
+| Debug on ui tiles | Debug the positioning of the tiles |	100% |
+| Debug on dark mode | Debug on the function that generates the shadow in dark places |	100% |
+
 ### Dinu Marius
 
 |      ToDo          |Description                         |Progress                          |
@@ -91,6 +117,12 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 |miniCheckpoint| I implemented the miniCheckpoints that spawn you to that position after you die.| 100%|
 
 ## Week 7
+### Oancea Ionut Eugen
+
+| ToDo | Description | Progress |
+|--|--|--|
+| Level adjustments | Redefined assets & tested map |	100% |
+
 ### Dinu Marius
 
 |      ToDo          |Description                         |Progress                          |
@@ -99,3 +131,19 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 |Prefabs        |Skins for player  |100%            |
 |Shop   |Soon |80%|
 |FinalMenu|Soon| 100%|
+
+## Week 8
+### Oancea Ionut Eugen
+
+| ToDo | Description | Progress |
+|--|--|--|
+| Level adjustments | Redefined assets & tested map |	100% |
+| Level 2 map design| Map rework on lvl 2|	100% |
+
+## Week 9
+### Oancea Ionut Eugen
+
+| ToDo | Description | Progress |
+|--|--|--|
+| Base testing for demo | Base testing for game demo & debugging |	100% |
+| Game build |* |	100% |
