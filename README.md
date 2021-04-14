@@ -15,8 +15,6 @@ Project by Oancea Ionut Eugen & Dinu Marius [3A5]
 The current game greets you with a fx character, that can jump, run, move, dash & crouch with particle effects & sounds.
 The camera shakes on impact & the player jump is influenced by the ammount of time the player keeps the spacebar pressed, by the previous state of the player (for example if the player is crouching, before jumping, it will jump higher )
 
-
-## Week 1
 ### Dinu Marius Ciprian
 
 |      ToDo          |Description                         |Progress                          |
@@ -38,8 +36,6 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 | Debugging over characters | Animation for oposum | 100%	 |
 | Debugging over characters | Defining hitboxes | 100%	 |
 
-
-## Week 2
 ### Dinu Marius
 
 |      ToDo          |Description                         |Progress                          |
@@ -60,9 +56,6 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 | Instantiated prefabs on the map | Chosen a position for each prefab on the map | 100% |
 | Simplified the spawning script | The enemy spawning script now uses a public vector 3 array when chosing the position of each enemy| 100%|
 
-
-## Week 3
-
 ### Dinu Marius
 
 |      ToDo          |Description                         |Progress                          |
@@ -79,6 +72,13 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 |--|--|--|
 | Level adjustments | Redefined assets & tested map |	100% |
 | Ui tiles | Created and added ui tiles for menu |	100% |
+
+### Dinu Marius
+
+| ToDo | Description | Progress |
+|--|--|--|
+| Enemy adjustments | Redefined enemy |	100% |
+| Checkpoints adjustments| Redefined Checkpoints |	100% |
 
 ## Week 5
 ### Oancea Ionut Eugen
@@ -129,7 +129,7 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 |----------------|-------------------------------|-----------------------------|
 |Start Menu | I made the basis of the menu and we will both do the design. We have implemented a script for choosing skins and displaying each menu option. |100%           |
 |Prefabs        |Skins for player  |100%            |
-|Shop   |Soon |80%|
+|Shop   |Soon |50%|
 |FinalMenu|Soon| 100%|
 
 ## Week 8
@@ -140,8 +140,25 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 | Level adjustments | Redefined assets & tested map |	100% |
 | Level 2 map design| Map rework on lvl 2|	100% |
 
+### Dinu Marius
+
+| ToDo | Description | Progress |
+|--|--|--|
+| Prefabs adjustments | Redefined prefabs |	100% |
+| Instantiate from JSON |  Redefined json |	100% |
+| MiniCheckpoint and Checkpoints rework |  Redefined MiniCheckpoint and Checkpoints without bugs |	100% |
+| Scene transition rework | New transitions without bugs | 100% |
+| Shop | Skins |	100% |
+
 ## Week 9
 ### Oancea Ionut Eugen
+
+| ToDo | Description | Progress |
+|--|--|--|
+| Base testing for demo | Base testing for game demo & debugging |	100% |
+| Game build |* |	100% |
+
+### Dinu Marius
 
 | ToDo | Description | Progress |
 |--|--|--|
