@@ -214,3 +214,13 @@ The camera shakes on impact & the player jump is influenced by the ammount of ti
 | Decided to change directions of the game | We decided that the game should take a "rage game" route and remove the posibility of saving the game after the player has closed the application | 50% |
 | Updated the phisics proprieties of the player so it would make certain jumps harder | | 100% |
 | Updated the player model colider so it would slip on the edge of tiles to make the game harder | | 100% | 
+
+## Week 14
+### Oancea Ionut Eugen &  Dinu Marius
+| ToDo | Description | Progress |
+|--|--|--|
+| ALT+F4 | block | 0% |
+| 3 types of rage | Speed, invisble blocks, timer blocks | 100% |
+| Debug on the map colider | Problems with timer blocks| 100% |
+| Debug on the player's colider | Problems with timer blocks| 100% |
+| Tutorial | | 70% | 
